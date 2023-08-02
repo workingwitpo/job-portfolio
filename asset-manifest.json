@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/job-portfolio/static/css/main.3aff4a55.css",
+    "main.js": "/job-portfolio/static/js/main.6a10dad4.js",
+    "static/media/selfie.jpeg": "/job-portfolio/static/media/selfie.3c732d73d0a0a5e14278.jpeg",
+    "static/media/flightflinder.png": "/job-portfolio/static/media/flightflinder.cb1614902fc475aae005.png",
+    "static/media/landing_page.png": "/job-portfolio/static/media/landing_page.3efb8457722999067714.png",
+    "static/media/weatherapi.png": "/job-portfolio/static/media/weatherapi.abea882742487c02e28f.png",
+    "static/media/calculatorv2.png": "/job-portfolio/static/media/calculatorv2.25119fe76b69de972b9e.png",
+    "static/media/email-logo.png": "/job-portfolio/static/media/email-logo.431c3ba644b8b1c6e65e.png",
+    "static/media/Johnny-Ma-Resume.pdf": "/job-portfolio/static/media/Johnny-Ma-Resume.bfbeeec6ff7daa12349a.pdf",
+    "static/media/linkedin-logo.png": "/job-portfolio/static/media/linkedin-logo.c573a970ade36d41f5a8.png",
+    "index.html": "/job-portfolio/index.html",
+    "main.3aff4a55.css.map": "/job-portfolio/static/css/main.3aff4a55.css.map",
+    "main.6a10dad4.js.map": "/job-portfolio/static/js/main.6a10dad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aff4a55.css",
+    "static/js/main.6a10dad4.js"
+  ]
+}
